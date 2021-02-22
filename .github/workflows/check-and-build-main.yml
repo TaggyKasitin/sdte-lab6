@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: kodlor/sdte_lab_6
+          tags: kodlor/sdte_lab_6:latest
           push: true
